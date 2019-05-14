@@ -1,0 +1,9 @@
+{
+    "name": "griffbrad\/composer-versioning-examples",
+    "description": "An illustrations of some versioning subtleties in PHP and Composer.",
+    "autoload": {
+        "psr-4": {
+            "_PhpScoper5cdb0eeda39b3\\ComposerVersioning\\": "ComposerVersioning"
+        }
+    }
+}

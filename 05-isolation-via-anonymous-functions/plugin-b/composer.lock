@@ -1,0 +1,42 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "685371110437e562861cd5f6d42c6926",
+    "packages": [
+        {
+            "name": "griffbrad/composer-versioning-examples",
+            "version": "4.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/griffbrad/composer-versioning-examples.git",
+                "reference": "59bc2819121d596a27f1f887e62798913027d56c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/griffbrad/composer-versioning-examples/zipball/59bc2819121d596a27f1f887e62798913027d56c",
+                "reference": "59bc2819121d596a27f1f887e62798913027d56c",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "ComposerVersioning\\": "ComposerVersioning"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "An illustrations of some versioning subtleties in PHP and Composer.",
+            "time": "2019-05-14T18:46:46+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

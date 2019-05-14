@@ -1,0 +1,28 @@
+[
+    {
+        "name": "griffbrad/composer-versioning-examples",
+        "version": "4.0.0",
+        "version_normalized": "4.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/griffbrad/composer-versioning-examples.git",
+            "reference": "59bc2819121d596a27f1f887e62798913027d56c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/griffbrad/composer-versioning-examples/zipball/59bc2819121d596a27f1f887e62798913027d56c",
+            "reference": "59bc2819121d596a27f1f887e62798913027d56c",
+            "shasum": ""
+        },
+        "time": "2019-05-14T18:46:46+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "ComposerVersioning\\": "ComposerVersioning"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "description": "An illustrations of some versioning subtleties in PHP and Composer."
+    }
+]
